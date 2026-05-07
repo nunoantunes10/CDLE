@@ -1,0 +1,5 @@
+stage,rows,columns,row_percentage_vs_raw
+raw_dataset,2463931,19,100.0
+cleaned_dataset,2301788,23,93.42
+small_dataset,100000,23,4.06
+ml_dataset,2301788,11,93.42
